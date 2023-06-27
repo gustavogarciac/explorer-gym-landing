@@ -16,18 +16,6 @@ Clone the project
   git clone git@github.com:gustavogarciac/explorer-gym-landing.git
 ```
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Run the server
-
-```bash
-  npm run start
-```
-
 
 ## 🚀 Technologies
 
