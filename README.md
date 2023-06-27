@@ -2,7 +2,7 @@
 # Gym Landing Page
 
 ## ✨ Live Preview
-You can access the live preview clicking [here](https://github-favorites-theta.vercel.app/).
+You can access the live preview clicking [here](https://gustavogarciac.github.io/explorer-gym-landing/).
 ## Preview
 
 ![App Screenshot](./assets/thumbnail.png)
